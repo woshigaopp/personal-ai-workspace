@@ -14,3 +14,7 @@ temp/
 node_modules/
 __pycache__/
 *.py[cod]
+
+# Independently versioned site project and local preview artifact.
+work/active/2026-001-jdl-ai-onboarding/outputs/logistics-learning-site/
+work/active/2026-001-jdl-ai-onboarding/outputs/audio/
